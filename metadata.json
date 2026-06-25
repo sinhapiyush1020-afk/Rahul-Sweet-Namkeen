@@ -1,0 +1,6 @@
+{
+  "name": "Prem Ji Sweets",
+  "description": "Premium mobile-first website for Rahul Sweets & Namkeen in Kanpur, Uttar Pradesh, featuring a sweets showcase, interactive Gemini chatbot assistant, contact forms, and local map info.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
